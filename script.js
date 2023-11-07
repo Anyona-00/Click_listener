@@ -5,7 +5,7 @@ var title = document.getElementById("head"),
     content = document.getElementsByTagName("p");
 
 
-title.style.color = 'yellow'
+title.style.color = 'black'
 
 
 //Events

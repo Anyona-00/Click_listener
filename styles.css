@@ -1,0 +1,20 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 2px 2px 24px 1px rgba(0, 0, 0, 0.2);
+text-align: center;
+font-size: xx-large;
+}
+button{
+    margin: 10rem auto;
+    background-color: greenyellow;
+    width: 200px;
+    height: 60px;
+    font-size: 1.5rem;
+    padding: 20px 40px;
+    
+}
+p{
+
+}
