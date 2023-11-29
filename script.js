@@ -13,9 +13,9 @@ title.style.color = 'black'
 var btn = document.getElementById('hit'),
     container = document.querySelector("container");
 
-btn.addEventListener("click" , function() {
+btn.addEventListener("click" , () => 
     console.log("some one clicked me")
-});
+);
 
 
 container.addEventListener("mouseenter", movein);
