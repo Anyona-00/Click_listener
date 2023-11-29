@@ -17,8 +17,13 @@ button{
 }
 
 
-.list ul li{
+.list {
     text-decoration: none;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+
 
 }
 

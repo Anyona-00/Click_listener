@@ -30,3 +30,41 @@ document.addEventListener('keyup', function(event){
   console.log("Key code: " + keyCode);
 });
   
+
+
+
+
+
+let ShoppingList = [
+    {
+        "category": "KitchenStuff",
+        "items": {
+            "Unga" : ["Ugali", "Pancake", "Chapati"],
+            "CookingOil" : "3ltrs",
+            "Salt" : 1,
+            "Milk" : "BrookSide",
+            "Peanut" : 1,
+            "Blueband" : 1,
+            "Kichungi" : 1,
+            "Toothpicks" : 1,
+            "DishSponge" : "pack",
+            "SteelWire" : "Not wool",
+            "KitchenTowel" : 1,
+            "SoySauce" : "Dark",
+            "LiquidSoap" : "SunlightLemon"
+        }
+    },
+    {
+        "category": "SanitaryStuff",
+        "items": {
+            "Rollon" : 1,
+            "ToothPaste" : "Sensodyne",
+            "ToothBrush" : 1,
+            "Jik" : "White",
+            "Toss" : "Lavender",
+            "Gillets" : "pack",
+            "Makasi" : 1,
+            "AirFreshner" : "Refill",
+        }
+    }
+]
